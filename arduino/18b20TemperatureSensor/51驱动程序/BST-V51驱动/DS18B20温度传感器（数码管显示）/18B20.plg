@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>礦ision3 Build Log</h1>
+<h2>Project:</h2>
+E:\学习板项目\亚博单片机 51学习板光盘资料\12、用户程序\第16讲 18B20温度传感器\18B20.uv2
+Project File Date:  11/28/2013
+
+<h2>Output:</h2>
+创建目标 '目标 1'
+编译 main.c ...
+连接 ...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?READROM?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?DELAY10MS?MAIN
+Program Size: data=19.1 xdata=0 code=1336
+创建 HEX 文件 "18B20" ...
+"18B20" - 0 个错误, 2 个警告。

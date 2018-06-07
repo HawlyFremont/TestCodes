@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>礦ision3 Build Log</h1>
+<h2>Project:</h2>
+E:\学习板项目\慧静51CD\51\5、步骤5 相关例程\1、配套C实验例程100多个\【实验60】DS18B20--温度报警器0\baojing.uv2
+Project File Date:  02/15/2012
+
+<h2>Output:</h2>
+创建目标 'Target 1'
+编译 baojing.c ...
+连接 ...
+Program Size: data=17.1 xdata=0 code=1317
+创建 HEX 文件 "baojing" ...
+"baojing" - 0 个错误, 0 个警告。
+创建目标 'Target 1'
+编译 baojing.c ...
+连接 ...
+Program Size: data=17.1 xdata=0 code=1317
+创建 HEX 文件 "baojing" ...
+"baojing" - 0 个错误, 0 个警告。

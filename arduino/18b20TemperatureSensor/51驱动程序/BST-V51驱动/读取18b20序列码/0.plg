@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>礦ision3 Build Log</h1>
+<h2>Project:</h2>
+E:\学习板项目\慧静51CD\51\5、步骤5 相关例程\1、配套C实验例程100多个\【实验59】读取18b20序列码\0.uv2
+Project File Date:  02/15/2012
+
+<h2>Output:</h2>
+创建目标 'Target 1'
+编译 0.c ...
+连接 ...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?LCD_BUSY?0
+Program Size: data=21.2 xdata=0 code=867
+创建 HEX 文件 "0" ...
+"0" - 0 个错误, 1 个警告。
+创建目标 'Target 1'
+编译 0.c ...
+连接 ...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?LCD_BUSY?0
+Program Size: data=21.2 xdata=0 code=867
+创建 HEX 文件 "0" ...
+"0" - 0 个错误, 1 个警告。

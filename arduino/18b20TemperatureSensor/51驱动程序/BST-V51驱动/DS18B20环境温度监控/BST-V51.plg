@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>礦ision3 Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Administrator\Desktop\3、配套C实验例程100多个\【实验105】DS18B20环境温度监控\实验源代码1\BST-V51.uv2
+Project File Date:  05/20/2014
+
+<h2>Output:</h2>
+创建目标 '目标 1'
+编译 main.c ...
+连接 ...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?READROM?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?DELAY10MS?MAIN
+Program Size: data=19.1 xdata=0 code=1357
+创建 HEX 文件 "BST-V51" ...
+"BST-V51" - 0 个错误, 2 个警告。
